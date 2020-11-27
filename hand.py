@@ -1,5 +1,2 @@
 print("my hand")
-
-
-
-sdmkvjkvlk
+aslcmjkvkv
