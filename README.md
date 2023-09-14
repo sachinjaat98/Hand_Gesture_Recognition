@@ -1,2 +1,3 @@
-# hand-gesture-recognition
-it is hand hesture recognition and program control project using openCV python
+# Hand Gesture Recognition
+A hand hesture recognition  program control project created using openCV and python and Other Libraries
+to implement various gesture control mechanism include Sign Gesture Automation 
